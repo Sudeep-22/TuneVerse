@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TuneVerse/static/css/main.8fb9ba08.css",
+    "main.js": "/TuneVerse/static/js/main.60c5d05e.js",
+    "static/media/music-bg-3.jpg": "/TuneVerse/static/media/music-bg-3.482d2ea257705a46126a.jpg",
+    "index.html": "/TuneVerse/index.html",
+    "main.8fb9ba08.css.map": "/TuneVerse/static/css/main.8fb9ba08.css.map",
+    "main.60c5d05e.js.map": "/TuneVerse/static/js/main.60c5d05e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fb9ba08.css",
+    "static/js/main.60c5d05e.js"
+  ]
+}
